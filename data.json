@@ -1,0 +1,3008 @@
+[
+    {
+        "dexNumber": "#001",
+        "dexName": "Grookey\u30b5\u30eb\u30ce\u30ea",
+        "dexTypes": [
+            "grass"
+        ]
+    },
+    {
+        "dexNumber": "#002",
+        "dexName": "Thwackey\u30d0\u30c1\u30f3\u30ad\u30fc",
+        "dexTypes": [
+            "grass"
+        ]
+    },
+    {
+        "dexNumber": "#003",
+        "dexName": "Rillaboom\u30b4\u30ea\u30e9\u30f3\u30c0\u30fc",
+        "dexTypes": [
+            "grass"
+        ]
+    },
+    {
+        "dexNumber": "#004",
+        "dexName": "Scorbunny\u30d2\u30d0\u30cb\u30fc",
+        "dexTypes": [
+            "fire"
+        ]
+    },
+    {
+        "dexNumber": "#005",
+        "dexName": "Raboot\u30e9\u30d3\u30d5\u30c3\u30c8",
+        "dexTypes": [
+            "fire"
+        ]
+    },
+    {
+        "dexNumber": "#006",
+        "dexName": "Cinderace\u30a8\u30fc\u30b9\u30d0\u30fc\u30f3",
+        "dexTypes": [
+            "fire"
+        ]
+    },
+    {
+        "dexNumber": "#007",
+        "dexName": "Sobble\u30e1\u30c3\u30bd\u30f3",
+        "dexTypes": [
+            "water"
+        ]
+    },
+    {
+        "dexNumber": "#008",
+        "dexName": "Drizzile\u30b8\u30e1\u30ec\u30aa\u30f3",
+        "dexTypes": [
+            "water"
+        ]
+    },
+    {
+        "dexNumber": "#009",
+        "dexName": "Inteleon\u30a4\u30f3\u30c6\u30ec\u30aa\u30f3",
+        "dexTypes": [
+            "water"
+        ]
+    },
+    {
+        "dexNumber": "#010",
+        "dexName": "Blipbug\u30b5\u30c3\u30c1\u30e0\u30b7",
+        "dexTypes": [
+            "bug"
+        ]
+    },
+    {
+        "dexNumber": "#011",
+        "dexName": "Dottler\u30ec\u30c9\u30fc\u30e0\u30b7",
+        "dexTypes": [
+            "bug",
+            "psychic"
+        ]
+    },
+    {
+        "dexNumber": "#012",
+        "dexName": "Orbeetle\u30a4\u30aa\u30eb\u30d6",
+        "dexTypes": [
+            "bug",
+            "psychic"
+        ]
+    },
+    {
+        "dexNumber": "#013",
+        "dexName": "Caterpie\u30ad\u30e3\u30bf\u30d4\u30fc",
+        "dexTypes": [
+            "bug"
+        ]
+    },
+    {
+        "dexNumber": "#014",
+        "dexName": "Metapod\u30c8\u30e9\u30f3\u30bb\u30eb",
+        "dexTypes": [
+            "bug"
+        ]
+    },
+    {
+        "dexNumber": "#015",
+        "dexName": "Butterfree\u30d0\u30bf\u30d5\u30ea\u30fc",
+        "dexTypes": [
+            "bug",
+            "flying"
+        ]
+    },
+    {
+        "dexNumber": "#016",
+        "dexName": "Grubbin\u30a2\u30b4\u30b8\u30e0\u30b7",
+        "dexTypes": [
+            "bug"
+        ]
+    },
+    {
+        "dexNumber": "#017",
+        "dexName": "Charjabug\u30c7\u30f3\u30c2\u30e0\u30b7",
+        "dexTypes": [
+            "bug",
+            "electric"
+        ]
+    },
+    {
+        "dexNumber": "#018",
+        "dexName": "Vikavolt\u30af\u30ef\u30ac\u30ce\u30f3",
+        "dexTypes": [
+            "bug",
+            "electric"
+        ]
+    },
+    {
+        "dexNumber": "#019",
+        "dexName": "Hoothoot\u30db\u30fc\u30db\u30fc",
+        "dexTypes": [
+            "normal",
+            "flying"
+        ]
+    },
+    {
+        "dexNumber": "#020",
+        "dexName": "Noctowl\u30e8\u30eb\u30ce\u30ba\u30af",
+        "dexTypes": [
+            "normal",
+            "flying"
+        ]
+    },
+    {
+        "dexNumber": "#021",
+        "dexName": "Rookidee\u30b3\u30b3\u30ac\u30e9",
+        "dexTypes": [
+            "flying"
+        ]
+    },
+    {
+        "dexNumber": "#022",
+        "dexName": "Corvisquire\u30a2\u30aa\u30ac\u30e9\u30b9",
+        "dexTypes": [
+            "flying"
+        ]
+    },
+    {
+        "dexNumber": "#023",
+        "dexName": "Corviknight\u30a2\u30fc\u30de\u30fc\u30ac\u30a2",
+        "dexTypes": [
+            "flying",
+            "steel"
+        ]
+    },
+    {
+        "dexNumber": "#024",
+        "dexName": "Skwovet\u30db\u30b7\u30ac\u30ea\u30b9",
+        "dexTypes": [
+            "normal"
+        ]
+    },
+    {
+        "dexNumber": "#025",
+        "dexName": "Greedent\u30e8\u30af\u30d0\u30ea\u30b9",
+        "dexTypes": [
+            "normal"
+        ]
+    },
+    {
+        "dexNumber": "#026",
+        "dexName": "Pidove\u30de\u30e1\u30d1\u30c8",
+        "dexTypes": [
+            "normal",
+            "flying"
+        ]
+    },
+    {
+        "dexNumber": "#027",
+        "dexName": "Tranquill\u30cf\u30c8\u30fc\u30dc\u30fc",
+        "dexTypes": [
+            "normal",
+            "flying"
+        ]
+    },
+    {
+        "dexNumber": "#028",
+        "dexName": "Unfezant\u30b1\u30f3\u30db\u30ed\u30a6",
+        "dexTypes": [
+            "normal",
+            "flying"
+        ]
+    },
+    {
+        "dexNumber": "#029",
+        "dexName": "Nickit\u30af\u30b9\u30cd",
+        "dexTypes": [
+            "dark"
+        ]
+    },
+    {
+        "dexNumber": "#030",
+        "dexName": "Thievul\u30d5\u30a9\u30af\u30b9\u30e9\u30a4",
+        "dexTypes": [
+            "dark"
+        ]
+    },
+    {
+        "dexNumber": "#031",
+        "dexName": "Zigzagoon\u30b8\u30b0\u30b6\u30b0\u30de",
+        "dexTypes": [
+            "dark",
+            "normal"
+        ]
+    },
+    {
+        "dexNumber": "#032",
+        "dexName": "Linoone\u30de\u30c3\u30b9\u30b0\u30de",
+        "dexTypes": [
+            "dark",
+            "normal"
+        ]
+    },
+    {
+        "dexNumber": "#033",
+        "dexName": "Obstagoon\u30bf\u30c1\u30d5\u30b5\u30b0\u30de",
+        "dexTypes": [
+            "dark",
+            "normal"
+        ]
+    },
+    {
+        "dexNumber": "#034",
+        "dexName": "Wooloo\u30a6\u30fc\u30eb\u30fc",
+        "dexTypes": [
+            "normal"
+        ]
+    },
+    {
+        "dexNumber": "#035",
+        "dexName": "Dubwool\u30d0\u30a4\u30a6\u30fc\u30eb\u30fc",
+        "dexTypes": [
+            "normal"
+        ]
+    },
+    {
+        "dexNumber": "#036",
+        "dexName": "Lotad\u30cf\u30b9\u30dc\u30fc",
+        "dexTypes": [
+            "water",
+            "grass"
+        ]
+    },
+    {
+        "dexNumber": "#037",
+        "dexName": "Lombre\u30cf\u30b9\u30d6\u30ec\u30ed",
+        "dexTypes": [
+            "water",
+            "grass"
+        ]
+    },
+    {
+        "dexNumber": "#038",
+        "dexName": "Ludicolo\u30eb\u30f3\u30d1\u30c3\u30d1",
+        "dexTypes": [
+            "water",
+            "grass"
+        ]
+    },
+    {
+        "dexNumber": "#039",
+        "dexName": "Seedot\u30bf\u30cd\u30dc\u30fc",
+        "dexTypes": [
+            "grass"
+        ]
+    },
+    {
+        "dexNumber": "#040",
+        "dexName": "Nuzleaf\u30b3\u30ce\u30cf\u30ca",
+        "dexTypes": [
+            "grass",
+            "dark"
+        ]
+    },
+    {
+        "dexNumber": "#041",
+        "dexName": "Shiftry\u30c0\u30fc\u30c6\u30f3\u30b0",
+        "dexTypes": [
+            "grass",
+            "dark"
+        ]
+    },
+    {
+        "dexNumber": "#042",
+        "dexName": "Chewtle\u30ab\u30e0\u30ab\u30e1",
+        "dexTypes": [
+            "water"
+        ]
+    },
+    {
+        "dexNumber": "#043",
+        "dexName": "Drednaw\u30ab\u30b8\u30ea\u30ac\u30e1",
+        "dexTypes": [
+            "water",
+            "rock"
+        ]
+    },
+    {
+        "dexNumber": "#044",
+        "dexName": "Purrloin\u30c1\u30e7\u30ed\u30cd\u30b3",
+        "dexTypes": [
+            "dark"
+        ]
+    },
+    {
+        "dexNumber": "#045",
+        "dexName": "Liepard\u30ec\u30d1\u30eb\u30c0\u30b9",
+        "dexTypes": [
+            "dark"
+        ]
+    },
+    {
+        "dexNumber": "#046",
+        "dexName": "Yamper\u30ef\u30f3\u30d1\u30c1",
+        "dexTypes": [
+            "electric"
+        ]
+    },
+    {
+        "dexNumber": "#047",
+        "dexName": "Boltund\u30d1\u30eb\u30b9\u30ef\u30f3",
+        "dexTypes": [
+            "electric"
+        ]
+    },
+    {
+        "dexNumber": "#048",
+        "dexName": "Bunnelby\u30db\u30eb\u30d3\u30fc",
+        "dexTypes": [
+            "normal"
+        ]
+    },
+    {
+        "dexNumber": "#049",
+        "dexName": "Diggersby\u30db\u30eb\u30fc\u30c9",
+        "dexTypes": [
+            "normal",
+            "ground"
+        ]
+    },
+    {
+        "dexNumber": "#050",
+        "dexName": "Minccino\u30c1\u30e9\u30fc\u30df\u30a3",
+        "dexTypes": [
+            "normal"
+        ]
+    },
+    {
+        "dexNumber": "#051",
+        "dexName": "Cinccino\u30c1\u30e9\u30c1\u30fc\u30ce",
+        "dexTypes": [
+            "normal"
+        ]
+    },
+    {
+        "dexNumber": "#052",
+        "dexName": "Bounsweet\u30a2\u30de\u30ab\u30b8",
+        "dexTypes": [
+            "grass"
+        ]
+    },
+    {
+        "dexNumber": "#053",
+        "dexName": "Steenee\u30a2\u30de\u30de\u30a4\u30b3",
+        "dexTypes": [
+            "grass"
+        ]
+    },
+    {
+        "dexNumber": "#054",
+        "dexName": "Tsareena\u30a2\u30de\u30fc\u30b8\u30e7",
+        "dexTypes": [
+            "grass"
+        ]
+    },
+    {
+        "dexNumber": "#055",
+        "dexName": "Oddish\u30ca\u30be\u30ce\u30af\u30b5",
+        "dexTypes": [
+            "grass",
+            "poison"
+        ]
+    },
+    {
+        "dexNumber": "#056",
+        "dexName": "Gloom\u30af\u30b5\u30a4\u30cf\u30ca",
+        "dexTypes": [
+            "grass",
+            "poison"
+        ]
+    },
+    {
+        "dexNumber": "#057",
+        "dexName": "Vileplume\u30e9\u30d5\u30ec\u30b7\u30a2",
+        "dexTypes": [
+            "grass",
+            "poison"
+        ]
+    },
+    {
+        "dexNumber": "#058",
+        "dexName": "Bellossom\u30ad\u30ec\u30a4\u30cf\u30ca",
+        "dexTypes": [
+            "grass"
+        ]
+    },
+    {
+        "dexNumber": "#059",
+        "dexName": "Budew\u30b9\u30dc\u30df\u30fc",
+        "dexTypes": [
+            "grass",
+            "poison"
+        ]
+    },
+    {
+        "dexNumber": "#060",
+        "dexName": "Roselia\u30ed\u30bc\u30ea\u30a2",
+        "dexTypes": [
+            "grass",
+            "poison"
+        ]
+    },
+    {
+        "dexNumber": "#061",
+        "dexName": "Roserade\u30ed\u30ba\u30ec\u30a4\u30c9",
+        "dexTypes": [
+            "grass",
+            "poison"
+        ]
+    },
+    {
+        "dexNumber": "#062",
+        "dexName": "Wingull\u30ad\u30e3\u30e2\u30e1",
+        "dexTypes": [
+            "water",
+            "flying"
+        ]
+    },
+    {
+        "dexNumber": "#063",
+        "dexName": "Pelipper\u30da\u30ea\u30c3\u30d1\u30fc",
+        "dexTypes": [
+            "water",
+            "flying"
+        ]
+    },
+    {
+        "dexNumber": "#064",
+        "dexName": "Joltik\u30d0\u30c1\u30e5\u30eb",
+        "dexTypes": [
+            "bug",
+            "electric"
+        ]
+    },
+    {
+        "dexNumber": "#065",
+        "dexName": "Galvantula\u30c7\u30f3\u30c1\u30e5\u30e9",
+        "dexTypes": [
+            "bug",
+            "electric"
+        ]
+    },
+    {
+        "dexNumber": "#066",
+        "dexName": "Electrike\u30e9\u30af\u30e9\u30a4",
+        "dexTypes": [
+            "electric"
+        ]
+    },
+    {
+        "dexNumber": "#067",
+        "dexName": "Manectric\u30e9\u30a4\u30dc\u30eb\u30c8",
+        "dexTypes": [
+            "electric"
+        ]
+    },
+    {
+        "dexNumber": "#068",
+        "dexName": "Vulpix\u30ed\u30b3\u30f3",
+        "dexTypes": [
+            "fire"
+        ]
+    },
+    {
+        "dexNumber": "#069",
+        "dexName": "Ninetales\u30ad\u30e5\u30a6\u30b3\u30f3",
+        "dexTypes": [
+            "fire"
+        ]
+    },
+    {
+        "dexNumber": "#070",
+        "dexName": "Growlithe\u30ac\u30fc\u30c7\u30a3",
+        "dexTypes": [
+            "fire"
+        ]
+    },
+    {
+        "dexNumber": "#071",
+        "dexName": "Arcanine\u30a6\u30a4\u30f3\u30c7\u30a3",
+        "dexTypes": [
+            "fire"
+        ]
+    },
+    {
+        "dexNumber": "#072",
+        "dexName": "Vanillite\u30d0\u30cb\u30d7\u30c3\u30c1",
+        "dexTypes": [
+            "ice"
+        ]
+    },
+    {
+        "dexNumber": "#073",
+        "dexName": "Vanillish\u30d0\u30cb\u30ea\u30c3\u30c1",
+        "dexTypes": [
+            "ice"
+        ]
+    },
+    {
+        "dexNumber": "#074",
+        "dexName": "Vanilluxe\u30d0\u30a4\u30d0\u30cb\u30e9",
+        "dexTypes": [
+            "ice"
+        ]
+    },
+    {
+        "dexNumber": "#075",
+        "dexName": "Swinub\u30a6\u30ea\u30e0\u30fc",
+        "dexTypes": [
+            "ice",
+            "ground"
+        ]
+    },
+    {
+        "dexNumber": "#076",
+        "dexName": "Piloswine\u30a4\u30ce\u30e0\u30fc",
+        "dexTypes": [
+            "ice",
+            "ground"
+        ]
+    },
+    {
+        "dexNumber": "#077",
+        "dexName": "Mamoswine\u30de\u30f3\u30e0\u30fc",
+        "dexTypes": [
+            "ice",
+            "ground"
+        ]
+    },
+    {
+        "dexNumber": "#078",
+        "dexName": "Delibird\u30c7\u30ea\u30d0\u30fc\u30c9",
+        "dexTypes": [
+            "ice",
+            "flying"
+        ]
+    },
+    {
+        "dexNumber": "#079",
+        "dexName": "Snorunt\u30e6\u30ad\u30ef\u30e9\u30b7",
+        "dexTypes": [
+            "ice"
+        ]
+    },
+    {
+        "dexNumber": "#080",
+        "dexName": "Glalie\u30aa\u30cb\u30b4\u30fc\u30ea",
+        "dexTypes": [
+            "ice"
+        ]
+    },
+    {
+        "dexNumber": "#081",
+        "dexName": "Froslass\u30e6\u30ad\u30e1\u30ce\u30b3",
+        "dexTypes": [
+            "ice",
+            "ghost"
+        ]
+    },
+    {
+        "dexNumber": "#082",
+        "dexName": "Baltoy\u30e4\u30b8\u30ed\u30f3",
+        "dexTypes": [
+            "ground",
+            "psychic"
+        ]
+    },
+    {
+        "dexNumber": "#083",
+        "dexName": "Claydol\u30cd\u30f3\u30c9\u30fc\u30eb",
+        "dexTypes": [
+            "ground",
+            "psychic"
+        ]
+    },
+    {
+        "dexNumber": "#084",
+        "dexName": "Mudbray\u30c9\u30ed\u30d0\u30f3\u30b3",
+        "dexTypes": [
+            "ground"
+        ]
+    },
+    {
+        "dexNumber": "#085",
+        "dexName": "Mudsdale\u30d0\u30f3\u30d0\u30c9\u30ed",
+        "dexTypes": [
+            "ground"
+        ]
+    },
+    {
+        "dexNumber": "#086",
+        "dexName": "Dwebble\u30a4\u30b7\u30ba\u30de\u30a4",
+        "dexTypes": [
+            "bug",
+            "rock"
+        ]
+    },
+    {
+        "dexNumber": "#087",
+        "dexName": "Crustle\u30a4\u30ef\u30d1\u30ec\u30b9",
+        "dexTypes": [
+            "bug",
+            "rock"
+        ]
+    },
+    {
+        "dexNumber": "#088",
+        "dexName": "Golett\u30b4\u30d3\u30c3\u30c8",
+        "dexTypes": [
+            "ground",
+            "ghost"
+        ]
+    },
+    {
+        "dexNumber": "#089",
+        "dexName": "Golurk\u30b4\u30eb\u30fc\u30b0",
+        "dexTypes": [
+            "ground",
+            "ghost"
+        ]
+    },
+    {
+        "dexNumber": "#090",
+        "dexName": "Munna\u30e0\u30f3\u30ca",
+        "dexTypes": [
+            "psychic"
+        ]
+    },
+    {
+        "dexNumber": "#091",
+        "dexName": "Musharna\u30e0\u30b7\u30e3\u30fc\u30ca",
+        "dexTypes": [
+            "psychic"
+        ]
+    },
+    {
+        "dexNumber": "#092",
+        "dexName": "Natu\u30cd\u30a4\u30c6\u30a3",
+        "dexTypes": [
+            "psychic",
+            "flying"
+        ]
+    },
+    {
+        "dexNumber": "#093",
+        "dexName": "Xatu\u30cd\u30a4\u30c6\u30a3\u30aa",
+        "dexTypes": [
+            "psychic",
+            "flying"
+        ]
+    },
+    {
+        "dexNumber": "#094",
+        "dexName": "Stufful\u30cc\u30a4\u30b3\u30b0\u30de",
+        "dexTypes": [
+            "normal",
+            "fighting"
+        ]
+    },
+    {
+        "dexNumber": "#095",
+        "dexName": "Bewear\u30ad\u30c6\u30eb\u30b0\u30de",
+        "dexTypes": [
+            "normal",
+            "fighting"
+        ]
+    },
+    {
+        "dexNumber": "#096",
+        "dexName": "Snover\u30e6\u30ad\u30ab\u30d6\u30ea",
+        "dexTypes": [
+            "grass",
+            "ice"
+        ]
+    },
+    {
+        "dexNumber": "#097",
+        "dexName": "Abomasnow\u30e6\u30ad\u30ce\u30aa\u30fc",
+        "dexTypes": [
+            "grass",
+            "ice"
+        ]
+    },
+    {
+        "dexNumber": "#098",
+        "dexName": "Krabby\u30af\u30e9\u30d6",
+        "dexTypes": [
+            "water"
+        ]
+    },
+    {
+        "dexNumber": "#099",
+        "dexName": "Kingler\u30ad\u30f3\u30b0\u30e9\u30fc",
+        "dexTypes": [
+            "water"
+        ]
+    },
+    {
+        "dexNumber": "#100",
+        "dexName": "Wooper\u30a6\u30d1\u30fc",
+        "dexTypes": [
+            "water",
+            "ground"
+        ]
+    },
+    {
+        "dexNumber": "#101",
+        "dexName": "Quagsire\u30cc\u30aa\u30fc",
+        "dexTypes": [
+            "water",
+            "ground"
+        ]
+    },
+    {
+        "dexNumber": "#102",
+        "dexName": "Corphish\u30d8\u30a4\u30ac\u30cb",
+        "dexTypes": [
+            "water"
+        ]
+    },
+    {
+        "dexNumber": "#103",
+        "dexName": "Crawdaunt\u30b7\u30b6\u30ea\u30ac\u30fc",
+        "dexTypes": [
+            "water",
+            "dark"
+        ]
+    },
+    {
+        "dexNumber": "#104",
+        "dexName": "Nincada\u30c4\u30c1\u30cb\u30f3",
+        "dexTypes": [
+            "bug",
+            "ground"
+        ]
+    },
+    {
+        "dexNumber": "#105",
+        "dexName": "Ninjask\u30c6\u30c3\u30ab\u30cb\u30f3",
+        "dexTypes": [
+            "bug",
+            "flying"
+        ]
+    },
+    {
+        "dexNumber": "#106",
+        "dexName": "Shedinja\u30cc\u30b1\u30cb\u30f3",
+        "dexTypes": [
+            "bug",
+            "ghost"
+        ]
+    },
+    {
+        "dexNumber": "#107",
+        "dexName": "Tyrogue\u30d0\u30eb\u30ad\u30fc",
+        "dexTypes": [
+            "fighting"
+        ]
+    },
+    {
+        "dexNumber": "#108",
+        "dexName": "Hitmonlee\u30b5\u30ef\u30e0\u30e9\u30fc",
+        "dexTypes": [
+            "fighting"
+        ]
+    },
+    {
+        "dexNumber": "#109",
+        "dexName": "Hitmonchan\u30a8\u30d3\u30ef\u30e9\u30fc",
+        "dexTypes": [
+            "fighting"
+        ]
+    },
+    {
+        "dexNumber": "#110",
+        "dexName": "Hitmontop\u30ab\u30dd\u30a8\u30e9\u30fc",
+        "dexTypes": [
+            "fighting"
+        ]
+    },
+    {
+        "dexNumber": "#111",
+        "dexName": "Pancham\u30e4\u30f3\u30c1\u30e3\u30e0",
+        "dexTypes": [
+            "fighting"
+        ]
+    },
+    {
+        "dexNumber": "#112",
+        "dexName": "Pangoro\u30b4\u30ed\u30f3\u30c0",
+        "dexTypes": [
+            "fighting",
+            "dark"
+        ]
+    },
+    {
+        "dexNumber": "#113",
+        "dexName": "Klink\u30ae\u30a2\u30eb",
+        "dexTypes": [
+            "steel"
+        ]
+    },
+    {
+        "dexNumber": "#114",
+        "dexName": "Klang\u30ae\u30ae\u30a2\u30eb",
+        "dexTypes": [
+            "steel"
+        ]
+    },
+    {
+        "dexNumber": "#115",
+        "dexName": "Klinklang\u30ae\u30ae\u30ae\u30a2\u30eb",
+        "dexTypes": [
+            "steel"
+        ]
+    },
+    {
+        "dexNumber": "#116",
+        "dexName": "Combee\u30df\u30c4\u30cf\u30cb\u30fc",
+        "dexTypes": [
+            "bug",
+            "flying"
+        ]
+    },
+    {
+        "dexNumber": "#117",
+        "dexName": "Vespiquen\u30d3\u30fc\u30af\u30a4\u30f3",
+        "dexTypes": [
+            "bug",
+            "flying"
+        ]
+    },
+    {
+        "dexNumber": "#118",
+        "dexName": "Bronzor\u30c9\u30fc\u30df\u30e9\u30fc",
+        "dexTypes": [
+            "steel",
+            "psychic"
+        ]
+    },
+    {
+        "dexNumber": "#119",
+        "dexName": "Bronzong\u30c9\u30fc\u30bf\u30af\u30f3",
+        "dexTypes": [
+            "steel",
+            "psychic"
+        ]
+    },
+    {
+        "dexNumber": "#120",
+        "dexName": "Ralts\u30e9\u30eb\u30c8\u30b9",
+        "dexTypes": [
+            "psychic",
+            "fairy"
+        ]
+    },
+    {
+        "dexNumber": "#121",
+        "dexName": "Kirlia\u30ad\u30eb\u30ea\u30a2",
+        "dexTypes": [
+            "psychic",
+            "fairy"
+        ]
+    },
+    {
+        "dexNumber": "#122",
+        "dexName": "Gardevoir\u30b5\u30fc\u30ca\u30a4\u30c8",
+        "dexTypes": [
+            "psychic",
+            "fairy"
+        ]
+    },
+    {
+        "dexNumber": "#123",
+        "dexName": "Gallade\u30a8\u30eb\u30ec\u30a4\u30c9",
+        "dexTypes": [
+            "psychic",
+            "fighting"
+        ]
+    },
+    {
+        "dexNumber": "#124",
+        "dexName": "Drifloon\u30d5\u30ef\u30f3\u30c6",
+        "dexTypes": [
+            "ghost",
+            "flying"
+        ]
+    },
+    {
+        "dexNumber": "#125",
+        "dexName": "Drifblim\u30d5\u30ef\u30e9\u30a4\u30c9",
+        "dexTypes": [
+            "ghost",
+            "flying"
+        ]
+    },
+    {
+        "dexNumber": "#126",
+        "dexName": "Gossifleur\u30d2\u30e1\u30f3\u30ab",
+        "dexTypes": [
+            "grass"
+        ]
+    },
+    {
+        "dexNumber": "#127",
+        "dexName": "Eldegoss\u30ef\u30bf\u30b7\u30e9\u30ac",
+        "dexTypes": [
+            "grass"
+        ]
+    },
+    {
+        "dexNumber": "#128",
+        "dexName": "Cherubi\u30c1\u30a7\u30ea\u30f3\u30dc",
+        "dexTypes": [
+            "grass"
+        ]
+    },
+    {
+        "dexNumber": "#129",
+        "dexName": "Cherrim\u30c1\u30a7\u30ea\u30e0",
+        "dexTypes": [
+            "grass"
+        ]
+    },
+    {
+        "dexNumber": "#130",
+        "dexName": "Stunky\u30b9\u30ab\u30f3\u30d7\u30fc",
+        "dexTypes": [
+            "poison",
+            "dark"
+        ]
+    },
+    {
+        "dexNumber": "#131",
+        "dexName": "Skuntank\u30b9\u30ab\u30bf\u30f3\u30af",
+        "dexTypes": [
+            "poison",
+            "dark"
+        ]
+    },
+    {
+        "dexNumber": "#132",
+        "dexName": "Tympole\u30aa\u30bf\u30de\u30ed",
+        "dexTypes": [
+            "water"
+        ]
+    },
+    {
+        "dexNumber": "#133",
+        "dexName": "Palpitoad\u30ac\u30de\u30ac\u30eb",
+        "dexTypes": [
+            "water",
+            "ground"
+        ]
+    },
+    {
+        "dexNumber": "#134",
+        "dexName": "Seismitoad\u30ac\u30de\u30b2\u30ed\u30b2",
+        "dexTypes": [
+            "water",
+            "ground"
+        ]
+    },
+    {
+        "dexNumber": "#135",
+        "dexName": "Duskull\u30e8\u30de\u30ef\u30eb",
+        "dexTypes": [
+            "ghost"
+        ]
+    },
+    {
+        "dexNumber": "#136",
+        "dexName": "Dusclops\u30b5\u30de\u30e8\u30fc\u30eb",
+        "dexTypes": [
+            "ghost"
+        ]
+    },
+    {
+        "dexNumber": "#137",
+        "dexName": "Dusknoir\u30e8\u30ce\u30ef\u30fc\u30eb",
+        "dexTypes": [
+            "ghost"
+        ]
+    },
+    {
+        "dexNumber": "#138",
+        "dexName": "Machop\u30ef\u30f3\u30ea\u30ad\u30fc",
+        "dexTypes": [
+            "fighting"
+        ]
+    },
+    {
+        "dexNumber": "#139",
+        "dexName": "Machoke\u30b4\u30fc\u30ea\u30ad\u30fc",
+        "dexTypes": [
+            "fighting"
+        ]
+    },
+    {
+        "dexNumber": "#140",
+        "dexName": "Machamp\u30ab\u30a4\u30ea\u30ad\u30fc",
+        "dexTypes": [
+            "fighting"
+        ]
+    },
+    {
+        "dexNumber": "#141",
+        "dexName": "Gastly\u30b4\u30fc\u30b9",
+        "dexTypes": [
+            "ghost",
+            "poison"
+        ]
+    },
+    {
+        "dexNumber": "#142",
+        "dexName": "Haunter\u30b4\u30fc\u30b9\u30c8",
+        "dexTypes": [
+            "ghost",
+            "poison"
+        ]
+    },
+    {
+        "dexNumber": "#143",
+        "dexName": "Gengar\u30b2\u30f3\u30ac\u30fc",
+        "dexTypes": [
+            "ghost",
+            "poison"
+        ]
+    },
+    {
+        "dexNumber": "#144",
+        "dexName": "Magikarp\u30b3\u30a4\u30ad\u30f3\u30b0",
+        "dexTypes": [
+            "water"
+        ]
+    },
+    {
+        "dexNumber": "#145",
+        "dexName": "Gyarados\u30ae\u30e3\u30e9\u30c9\u30b9",
+        "dexTypes": [
+            "water",
+            "flying"
+        ]
+    },
+    {
+        "dexNumber": "#146",
+        "dexName": "Goldeen\u30c8\u30b5\u30ad\u30f3\u30c8",
+        "dexTypes": [
+            "water"
+        ]
+    },
+    {
+        "dexNumber": "#147",
+        "dexName": "Seaking\u30a2\u30ba\u30de\u30aa\u30a6",
+        "dexTypes": [
+            "water"
+        ]
+    },
+    {
+        "dexNumber": "#148",
+        "dexName": "Remoraid\u30c6\u30c3\u30dd\u30a6\u30aa",
+        "dexTypes": [
+            "water"
+        ]
+    },
+    {
+        "dexNumber": "#149",
+        "dexName": "Octillery\u30aa\u30af\u30bf\u30f3",
+        "dexTypes": [
+            "water"
+        ]
+    },
+    {
+        "dexNumber": "#150",
+        "dexName": "Shellder\u30b7\u30a7\u30eb\u30c0\u30fc",
+        "dexTypes": [
+            "water"
+        ]
+    },
+    {
+        "dexNumber": "#151",
+        "dexName": "Cloyster\u30d1\u30eb\u30b7\u30a7\u30f3",
+        "dexTypes": [
+            "water",
+            "ice"
+        ]
+    },
+    {
+        "dexNumber": "#152",
+        "dexName": "Feebas\u30d2\u30f3\u30d0\u30b9",
+        "dexTypes": [
+            "water"
+        ]
+    },
+    {
+        "dexNumber": "#153",
+        "dexName": "Milotic\u30df\u30ed\u30ab\u30ed\u30b9",
+        "dexTypes": [
+            "water"
+        ]
+    },
+    {
+        "dexNumber": "#154",
+        "dexName": "Basculin\u30d0\u30b9\u30e9\u30aa",
+        "dexTypes": [
+            "water"
+        ]
+    },
+    {
+        "dexNumber": "#155",
+        "dexName": "Wishiwashi\u30e8\u30ef\u30b7",
+        "dexTypes": [
+            "water"
+        ]
+    },
+    {
+        "dexNumber": "#156",
+        "dexName": "Pyukumuku\u30ca\u30de\u30b3\u30d6\u30b7",
+        "dexTypes": [
+            "water"
+        ]
+    },
+    {
+        "dexNumber": "#157",
+        "dexName": "Trubbish\u30e4\u30d6\u30af\u30ed\u30f3",
+        "dexTypes": [
+            "poison"
+        ]
+    },
+    {
+        "dexNumber": "#158",
+        "dexName": "Garbodor\u30c0\u30b9\u30c8\u30c0\u30b9",
+        "dexTypes": [
+            "poison"
+        ]
+    },
+    {
+        "dexNumber": "#159",
+        "dexName": "Sizzlipede\u30e4\u30af\u30c7",
+        "dexTypes": [
+            "fire",
+            "bug"
+        ]
+    },
+    {
+        "dexNumber": "#160",
+        "dexName": "Centiskorch\u30de\u30eb\u30e4\u30af\u30c7",
+        "dexTypes": [
+            "fire",
+            "bug"
+        ]
+    },
+    {
+        "dexNumber": "#161",
+        "dexName": "Rolycoly\u30bf\u30f3\u30c9\u30f3",
+        "dexTypes": [
+            "rock"
+        ]
+    },
+    {
+        "dexNumber": "#162",
+        "dexName": "Carkol\u30c8\u30ed\u30c3\u30b4\u30f3",
+        "dexTypes": [
+            "rock",
+            "fire"
+        ]
+    },
+    {
+        "dexNumber": "#163",
+        "dexName": "Coalossal\u30bb\u30ad\u30bf\u30f3\u30b6\u30f3",
+        "dexTypes": [
+            "rock",
+            "fire"
+        ]
+    },
+    {
+        "dexNumber": "#164",
+        "dexName": "Diglett\u30c7\u30a3\u30b0\u30c0",
+        "dexTypes": [
+            "ground"
+        ]
+    },
+    {
+        "dexNumber": "#165",
+        "dexName": "Dugtrio\u30c0\u30b0\u30c8\u30ea\u30aa",
+        "dexTypes": [
+            "ground"
+        ]
+    },
+    {
+        "dexNumber": "#166",
+        "dexName": "Drilbur\u30e2\u30b0\u30ea\u30e5\u30fc",
+        "dexTypes": [
+            "ground"
+        ]
+    },
+    {
+        "dexNumber": "#167",
+        "dexName": "Excadrill\u30c9\u30ea\u30e5\u30a6\u30ba",
+        "dexTypes": [
+            "ground",
+            "steel"
+        ]
+    },
+    {
+        "dexNumber": "#168",
+        "dexName": "Roggenrola\u30c0\u30f3\u30b4\u30ed",
+        "dexTypes": [
+            "rock"
+        ]
+    },
+    {
+        "dexNumber": "#169",
+        "dexName": "Boldore\u30ac\u30f3\u30c8\u30eb",
+        "dexTypes": [
+            "rock"
+        ]
+    },
+    {
+        "dexNumber": "#170",
+        "dexName": "Gigalith\u30ae\u30ac\u30a4\u30a2\u30b9",
+        "dexTypes": [
+            "rock"
+        ]
+    },
+    {
+        "dexNumber": "#171",
+        "dexName": "Timburr\u30c9\u30c3\u30b3\u30e9\u30fc",
+        "dexTypes": [
+            "fighting"
+        ]
+    },
+    {
+        "dexNumber": "#172",
+        "dexName": "Gurdurr\u30c9\u30c6\u30c3\u30b3\u30c4",
+        "dexTypes": [
+            "fighting"
+        ]
+    },
+    {
+        "dexNumber": "#173",
+        "dexName": "Conkeldurr\u30ed\u30fc\u30d6\u30b7\u30f3",
+        "dexTypes": [
+            "fighting"
+        ]
+    },
+    {
+        "dexNumber": "#174",
+        "dexName": "Woobat\u30b3\u30ed\u30e2\u30ea",
+        "dexTypes": [
+            "psychic",
+            "flying"
+        ]
+    },
+    {
+        "dexNumber": "#175",
+        "dexName": "Swoobat\u30b3\u30b3\u30ed\u30e2\u30ea",
+        "dexTypes": [
+            "psychic",
+            "flying"
+        ]
+    },
+    {
+        "dexNumber": "#176",
+        "dexName": "Noibat\u30aa\u30f3\u30d0\u30c3\u30c8",
+        "dexTypes": [
+            "flying",
+            "dragon"
+        ]
+    },
+    {
+        "dexNumber": "#177",
+        "dexName": "Noivern\u30aa\u30f3\u30d0\u30fc\u30f3",
+        "dexTypes": [
+            "flying",
+            "dragon"
+        ]
+    },
+    {
+        "dexNumber": "#178",
+        "dexName": "Onix\u30a4\u30ef\u30fc\u30af",
+        "dexTypes": [
+            "rock",
+            "ground"
+        ]
+    },
+    {
+        "dexNumber": "#179",
+        "dexName": "Steelix\u30cf\u30ac\u30cd\u30fc\u30eb",
+        "dexTypes": [
+            "steel",
+            "ground"
+        ]
+    },
+    {
+        "dexNumber": "#180",
+        "dexName": "Arrokuda\u30b5\u30b7\u30ab\u30de\u30b9",
+        "dexTypes": [
+            "water"
+        ]
+    },
+    {
+        "dexNumber": "#181",
+        "dexName": "Barraskewda\u30ab\u30de\u30b9\u30b8\u30e7\u30fc",
+        "dexTypes": [
+            "water"
+        ]
+    },
+    {
+        "dexNumber": "#182",
+        "dexName": "Meowth\u30cb\u30e3\u30fc\u30b9",
+        "dexTypes": [
+            "steel"
+        ]
+    },
+    {
+        "dexNumber": "#183",
+        "dexName": "Perrserker\u30cb\u30e3\u30a4\u30ad\u30f3\u30b0",
+        "dexTypes": [
+            "steel"
+        ]
+    },
+    {
+        "dexNumber": "#184",
+        "dexName": "Persian\u30da\u30eb\u30b7\u30a2\u30f3",
+        "dexTypes": [
+            "normal"
+        ]
+    },
+    {
+        "dexNumber": "#185",
+        "dexName": "Milcery\u30de\u30db\u30df\u30eb",
+        "dexTypes": [
+            "fairy"
+        ]
+    },
+    {
+        "dexNumber": "#186",
+        "dexName": "Alcremie\u30de\u30db\u30a4\u30c3\u30d7",
+        "dexTypes": [
+            "fairy"
+        ]
+    },
+    {
+        "dexNumber": "#187",
+        "dexName": "Cutiefly\u30a2\u30d6\u30ea\u30fc",
+        "dexTypes": [
+            "bug",
+            "fairy"
+        ]
+    },
+    {
+        "dexNumber": "#188",
+        "dexName": "Ribombee\u30a2\u30d6\u30ea\u30dc\u30f3",
+        "dexTypes": [
+            "bug",
+            "fairy"
+        ]
+    },
+    {
+        "dexNumber": "#189",
+        "dexName": "Ferroseed\u30c6\u30c3\u30b7\u30fc\u30c9",
+        "dexTypes": [
+            "grass",
+            "steel"
+        ]
+    },
+    {
+        "dexNumber": "#190",
+        "dexName": "Ferrothorn\u30ca\u30c3\u30c8\u30ec\u30a4",
+        "dexTypes": [
+            "grass",
+            "steel"
+        ]
+    },
+    {
+        "dexNumber": "#191",
+        "dexName": "Pumpkaboo\u30d0\u30b1\u30c3\u30c1\u30e3",
+        "dexTypes": [
+            "ghost",
+            "grass"
+        ]
+    },
+    {
+        "dexNumber": "#192",
+        "dexName": "Gourgeist\u30d1\u30f3\u30d7\u30b8\u30f3",
+        "dexTypes": [
+            "ghost",
+            "grass"
+        ]
+    },
+    {
+        "dexNumber": "#193",
+        "dexName": "Pichu\u30d4\u30c1\u30e5\u30fc",
+        "dexTypes": [
+            "electric"
+        ]
+    },
+    {
+        "dexNumber": "#194",
+        "dexName": "Pikachu\u30d4\u30ab\u30c1\u30e5\u30a6",
+        "dexTypes": [
+            "electric"
+        ]
+    },
+    {
+        "dexNumber": "#195",
+        "dexName": "Raichu\u30e9\u30a4\u30c1\u30e5\u30a6",
+        "dexTypes": [
+            "electric"
+        ]
+    },
+    {
+        "dexNumber": "#196",
+        "dexName": "Eevee\u30a4\u30fc\u30d6\u30a4",
+        "dexTypes": [
+            "normal"
+        ]
+    },
+    {
+        "dexNumber": "#197",
+        "dexName": "Vaporeon\u30b7\u30e3\u30ef\u30fc\u30ba",
+        "dexTypes": [
+            "water"
+        ]
+    },
+    {
+        "dexNumber": "#198",
+        "dexName": "Jolteon\u30b5\u30f3\u30c0\u30fc\u30b9",
+        "dexTypes": [
+            "electric"
+        ]
+    },
+    {
+        "dexNumber": "#199",
+        "dexName": "Flareon\u30d6\u30fc\u30b9\u30bf\u30fc",
+        "dexTypes": [
+            "fire"
+        ]
+    },
+    {
+        "dexNumber": "#200",
+        "dexName": "Espeon\u30a8\u30fc\u30d5\u30a3",
+        "dexTypes": [
+            "psychic"
+        ]
+    },
+    {
+        "dexNumber": "#201",
+        "dexName": "Umbreon\u30d6\u30e9\u30c3\u30ad\u30fc",
+        "dexTypes": [
+            "dark"
+        ]
+    },
+    {
+        "dexNumber": "#202",
+        "dexName": "Leafeon\u30ea\u30fc\u30d5\u30a3\u30a2",
+        "dexTypes": [
+            "grass"
+        ]
+    },
+    {
+        "dexNumber": "#203",
+        "dexName": "Glaceon\u30b0\u30ec\u30a4\u30b7\u30a2",
+        "dexTypes": [
+            "ice"
+        ]
+    },
+    {
+        "dexNumber": "#204",
+        "dexName": "Sylveon\u30cb\u30f3\u30d5\u30a3\u30a2",
+        "dexTypes": [
+            "fairy"
+        ]
+    },
+    {
+        "dexNumber": "#205",
+        "dexName": "Applin\u30ab\u30b8\u30c3\u30c1\u30e5",
+        "dexTypes": [
+            "grass",
+            "dragon"
+        ]
+    },
+    {
+        "dexNumber": "#206",
+        "dexName": "Flapple\u30a2\u30c3\u30d7\u30ea\u30e5\u30fc",
+        "dexTypes": [
+            "grass",
+            "dragon"
+        ]
+    },
+    {
+        "dexNumber": "#207",
+        "dexName": "Appletun\u30bf\u30eb\u30c3\u30d7\u30eb",
+        "dexTypes": [
+            "grass",
+            "dragon"
+        ]
+    },
+    {
+        "dexNumber": "#208",
+        "dexName": "Espurr\u30cb\u30e3\u30b9\u30d1\u30fc",
+        "dexTypes": [
+            "psychic"
+        ]
+    },
+    {
+        "dexNumber": "#209",
+        "dexName": "Meowstic\u30cb\u30e3\u30aa\u30cb\u30af\u30b9",
+        "dexTypes": [
+            "psychic"
+        ]
+    },
+    {
+        "dexNumber": "#210",
+        "dexName": "Swirlix\u30da\u30ed\u30c3\u30d1\u30d5",
+        "dexTypes": [
+            "fairy"
+        ]
+    },
+    {
+        "dexNumber": "#211",
+        "dexName": "Slurpuff\u30da\u30ed\u30ea\u30fc\u30e0",
+        "dexTypes": [
+            "fairy"
+        ]
+    },
+    {
+        "dexNumber": "#212",
+        "dexName": "Spritzee\u30b7\u30e5\u30b7\u30e5\u30d7",
+        "dexTypes": [
+            "fairy"
+        ]
+    },
+    {
+        "dexNumber": "#213",
+        "dexName": "Aromatisse\u30d5\u30ec\u30d5\u30ef\u30f3",
+        "dexTypes": [
+            "fairy"
+        ]
+    },
+    {
+        "dexNumber": "#214",
+        "dexName": "Dewpider\u30b7\u30ba\u30af\u30e2",
+        "dexTypes": [
+            "water",
+            "bug"
+        ]
+    },
+    {
+        "dexNumber": "#215",
+        "dexName": "Araquanid\u30aa\u30cb\u30b7\u30ba\u30af\u30e2",
+        "dexTypes": [
+            "water",
+            "bug"
+        ]
+    },
+    {
+        "dexNumber": "#216",
+        "dexName": "Wynaut\u30bd\u30fc\u30ca\u30ce",
+        "dexTypes": [
+            "psychic"
+        ]
+    },
+    {
+        "dexNumber": "#217",
+        "dexName": "Wobbuffet\u30bd\u30fc\u30ca\u30f3\u30b9",
+        "dexTypes": [
+            "psychic"
+        ]
+    },
+    {
+        "dexNumber": "#218",
+        "dexName": "Farfetch'd\u30ab\u30e2\u30cd\u30ae",
+        "dexTypes": [
+            "fighting"
+        ]
+    },
+    {
+        "dexNumber": "#219",
+        "dexName": "Sirfetch'd\u30cd\u30ae\u30ac\u30ca\u30a4\u30c8",
+        "dexTypes": [
+            "fighting"
+        ]
+    },
+    {
+        "dexNumber": "#220",
+        "dexName": "Chinchou\u30c1\u30e7\u30f3\u30c1\u30fc",
+        "dexTypes": [
+            "water",
+            "electric"
+        ]
+    },
+    {
+        "dexNumber": "#221",
+        "dexName": "Lanturn\u30e9\u30f3\u30bf\u30fc\u30f3",
+        "dexTypes": [
+            "water",
+            "electric"
+        ]
+    },
+    {
+        "dexNumber": "#222",
+        "dexName": "Croagunk\u30b0\u30ec\u30c3\u30b0\u30eb",
+        "dexTypes": [
+            "poison",
+            "fighting"
+        ]
+    },
+    {
+        "dexNumber": "#223",
+        "dexName": "Toxicroak\u30c9\u30af\u30ed\u30c3\u30b0",
+        "dexTypes": [
+            "poison",
+            "fighting"
+        ]
+    },
+    {
+        "dexNumber": "#224",
+        "dexName": "Scraggy\u30ba\u30eb\u30c3\u30b0",
+        "dexTypes": [
+            "dark",
+            "fighting"
+        ]
+    },
+    {
+        "dexNumber": "#225",
+        "dexName": "Scrafty\u30ba\u30eb\u30ba\u30ad\u30f3",
+        "dexTypes": [
+            "dark",
+            "fighting"
+        ]
+    },
+    {
+        "dexNumber": "#226",
+        "dexName": "Stunfisk\u30de\u30c3\u30ae\u30e7",
+        "dexTypes": [
+            "ground",
+            "steel"
+        ]
+    },
+    {
+        "dexNumber": "#227",
+        "dexName": "Shuckle\u30c4\u30dc\u30c4\u30dc",
+        "dexTypes": [
+            "bug",
+            "rock"
+        ]
+    },
+    {
+        "dexNumber": "#228",
+        "dexName": "Barboach\u30c9\u30b8\u30e7\u30c3\u30c1",
+        "dexTypes": [
+            "water",
+            "ground"
+        ]
+    },
+    {
+        "dexNumber": "#229",
+        "dexName": "Whiscash\u30ca\u30de\u30ba\u30f3",
+        "dexTypes": [
+            "water",
+            "ground"
+        ]
+    },
+    {
+        "dexNumber": "#230",
+        "dexName": "Shellos\u30ab\u30e9\u30ca\u30af\u30b7",
+        "dexTypes": [
+            "water"
+        ]
+    },
+    {
+        "dexNumber": "#231",
+        "dexName": "Gastrodon\u30c8\u30ea\u30c8\u30c9\u30f3",
+        "dexTypes": [
+            "water",
+            "ground"
+        ]
+    },
+    {
+        "dexNumber": "#232",
+        "dexName": "Wimpod\u30b3\u30bd\u30af\u30e0\u30b7",
+        "dexTypes": [
+            "bug",
+            "water"
+        ]
+    },
+    {
+        "dexNumber": "#233",
+        "dexName": "Golisopod\u30b0\u30bd\u30af\u30e0\u30b7\u30e3",
+        "dexTypes": [
+            "bug",
+            "water"
+        ]
+    },
+    {
+        "dexNumber": "#234",
+        "dexName": "Binacle\u30ab\u30e1\u30c6\u30c6",
+        "dexTypes": [
+            "rock",
+            "water"
+        ]
+    },
+    {
+        "dexNumber": "#235",
+        "dexName": "Barbaracle\u30ac\u30e1\u30ce\u30c7\u30b9",
+        "dexTypes": [
+            "rock",
+            "water"
+        ]
+    },
+    {
+        "dexNumber": "#236",
+        "dexName": "Corsola\u30b5\u30cb\u30fc\u30b4",
+        "dexTypes": [
+            "ghost"
+        ]
+    },
+    {
+        "dexNumber": "#237",
+        "dexName": "Cursola\u30b5\u30cb\u30b4\u30fc\u30f3",
+        "dexTypes": [
+            "ghost"
+        ]
+    },
+    {
+        "dexNumber": "#238",
+        "dexName": "Impidimp\u30d9\u30ed\u30d0\u30fc",
+        "dexTypes": [
+            "dark",
+            "fairy"
+        ]
+    },
+    {
+        "dexNumber": "#239",
+        "dexName": "Morgrem\u30ae\u30e2\u30fc",
+        "dexTypes": [
+            "dark",
+            "fairy"
+        ]
+    },
+    {
+        "dexNumber": "#240",
+        "dexName": "Grimmsnarl\u30aa\u30fc\u30ed\u30f3\u30b2",
+        "dexTypes": [
+            "dark",
+            "fairy"
+        ]
+    },
+    {
+        "dexNumber": "#241",
+        "dexName": "Hatenna\u30df\u30d6\u30ea\u30e0",
+        "dexTypes": [
+            "psychic"
+        ]
+    },
+    {
+        "dexNumber": "#242",
+        "dexName": "Hattrem\u30c6\u30d6\u30ea\u30e0",
+        "dexTypes": [
+            "psychic"
+        ]
+    },
+    {
+        "dexNumber": "#243",
+        "dexName": "Hatterene\u30d6\u30ea\u30e0\u30aa\u30f3",
+        "dexTypes": [
+            "psychic",
+            "fairy"
+        ]
+    },
+    {
+        "dexNumber": "#244",
+        "dexName": "Salandit\u30e4\u30c8\u30a6\u30e2\u30ea",
+        "dexTypes": [
+            "poison",
+            "fire"
+        ]
+    },
+    {
+        "dexNumber": "#245",
+        "dexName": "Salazzle\u30a8\u30f3\u30cb\u30e5\u30fc\u30c8",
+        "dexTypes": [
+            "poison",
+            "fire"
+        ]
+    },
+    {
+        "dexNumber": "#246",
+        "dexName": "Pawniard\u30b3\u30de\u30bf\u30ca",
+        "dexTypes": [
+            "dark",
+            "steel"
+        ]
+    },
+    {
+        "dexNumber": "#247",
+        "dexName": "Bisharp\u30ad\u30ea\u30ad\u30b6\u30f3",
+        "dexTypes": [
+            "dark",
+            "steel"
+        ]
+    },
+    {
+        "dexNumber": "#248",
+        "dexName": "Throh\u30ca\u30b2\u30ad",
+        "dexTypes": [
+            "fighting"
+        ]
+    },
+    {
+        "dexNumber": "#249",
+        "dexName": "Sawk\u30c0\u30b2\u30ad",
+        "dexTypes": [
+            "fighting"
+        ]
+    },
+    {
+        "dexNumber": "#250",
+        "dexName": "Koffing\u30c9\u30ac\u30fc\u30b9",
+        "dexTypes": [
+            "poison"
+        ]
+    },
+    {
+        "dexNumber": "#251",
+        "dexName": "Weezing\u30de\u30bf\u30c9\u30ac\u30b9",
+        "dexTypes": [
+            "poison",
+            "fairy"
+        ]
+    },
+    {
+        "dexNumber": "#252",
+        "dexName": "Bonsly\u30a6\u30bd\u30cf\u30c1",
+        "dexTypes": [
+            "rock"
+        ]
+    },
+    {
+        "dexNumber": "#253",
+        "dexName": "Sudowoodo\u30a6\u30bd\u30c3\u30ad\u30fc",
+        "dexTypes": [
+            "rock"
+        ]
+    },
+    {
+        "dexNumber": "#254",
+        "dexName": "Cleffa\u30d4\u30a3",
+        "dexTypes": [
+            "fairy"
+        ]
+    },
+    {
+        "dexNumber": "#255",
+        "dexName": "Clefairy\u30d4\u30c3\u30d4",
+        "dexTypes": [
+            "fairy"
+        ]
+    },
+    {
+        "dexNumber": "#256",
+        "dexName": "Clefable\u30d4\u30af\u30b7\u30fc",
+        "dexTypes": [
+            "fairy"
+        ]
+    },
+    {
+        "dexNumber": "#257",
+        "dexName": "Togepi\u30c8\u30b2\u30d4\u30fc",
+        "dexTypes": [
+            "fairy"
+        ]
+    },
+    {
+        "dexNumber": "#258",
+        "dexName": "Togetic\u30c8\u30b2\u30c1\u30c3\u30af",
+        "dexTypes": [
+            "fairy",
+            "flying"
+        ]
+    },
+    {
+        "dexNumber": "#259",
+        "dexName": "Togekiss\u30c8\u30b2\u30ad\u30c3\u30b9",
+        "dexTypes": [
+            "fairy",
+            "flying"
+        ]
+    },
+    {
+        "dexNumber": "#260",
+        "dexName": "Munchlax\u30b4\u30f3\u30d9",
+        "dexTypes": [
+            "normal"
+        ]
+    },
+    {
+        "dexNumber": "#261",
+        "dexName": "Snorlax\u30ab\u30d3\u30b4\u30f3",
+        "dexTypes": [
+            "normal"
+        ]
+    },
+    {
+        "dexNumber": "#262",
+        "dexName": "Cottonee\u30e2\u30f3\u30e1\u30f3",
+        "dexTypes": [
+            "grass",
+            "fairy"
+        ]
+    },
+    {
+        "dexNumber": "#263",
+        "dexName": "Whimsicott\u30a8\u30eb\u30d5\u30fc\u30f3",
+        "dexTypes": [
+            "grass",
+            "fairy"
+        ]
+    },
+    {
+        "dexNumber": "#264",
+        "dexName": "Rhyhorn\u30b5\u30a4\u30db\u30fc\u30f3",
+        "dexTypes": [
+            "ground",
+            "rock"
+        ]
+    },
+    {
+        "dexNumber": "#265",
+        "dexName": "Rhydon\u30b5\u30a4\u30c9\u30f3",
+        "dexTypes": [
+            "ground",
+            "rock"
+        ]
+    },
+    {
+        "dexNumber": "#266",
+        "dexName": "Rhyperior\u30c9\u30b5\u30a4\u30c9\u30f3",
+        "dexTypes": [
+            "ground",
+            "rock"
+        ]
+    },
+    {
+        "dexNumber": "#267",
+        "dexName": "Gothita\u30b4\u30c1\u30e0",
+        "dexTypes": [
+            "psychic"
+        ]
+    },
+    {
+        "dexNumber": "#268",
+        "dexName": "Gothorita\u30b4\u30c1\u30df\u30eb",
+        "dexTypes": [
+            "psychic"
+        ]
+    },
+    {
+        "dexNumber": "#269",
+        "dexName": "Gothitelle\u30b4\u30c1\u30eb\u30bc\u30eb",
+        "dexTypes": [
+            "psychic"
+        ]
+    },
+    {
+        "dexNumber": "#270",
+        "dexName": "Solosis\u30e6\u30cb\u30e9\u30f3",
+        "dexTypes": [
+            "psychic"
+        ]
+    },
+    {
+        "dexNumber": "#271",
+        "dexName": "Duosion\u30c0\u30d6\u30e9\u30f3",
+        "dexTypes": [
+            "psychic"
+        ]
+    },
+    {
+        "dexNumber": "#272",
+        "dexName": "Reuniclus\u30e9\u30f3\u30af\u30eb\u30b9",
+        "dexTypes": [
+            "psychic"
+        ]
+    },
+    {
+        "dexNumber": "#273",
+        "dexName": "Karrablast\u30ab\u30d6\u30eb\u30e2",
+        "dexTypes": [
+            "bug"
+        ]
+    },
+    {
+        "dexNumber": "#274",
+        "dexName": "Escavalier\u30b7\u30e5\u30d0\u30eb\u30b4",
+        "dexTypes": [
+            "bug",
+            "steel"
+        ]
+    },
+    {
+        "dexNumber": "#275",
+        "dexName": "Shelmet\u30c1\u30e7\u30dc\u30de\u30ad",
+        "dexTypes": [
+            "bug"
+        ]
+    },
+    {
+        "dexNumber": "#276",
+        "dexName": "Accelgor\u30a2\u30ae\u30eb\u30c0\u30fc",
+        "dexTypes": [
+            "bug"
+        ]
+    },
+    {
+        "dexNumber": "#277",
+        "dexName": "Elgyem\u30ea\u30b0\u30ec\u30fc",
+        "dexTypes": [
+            "psychic"
+        ]
+    },
+    {
+        "dexNumber": "#278",
+        "dexName": "Beheeyem\u30aa\u30fc\u30d9\u30e0",
+        "dexTypes": [
+            "psychic"
+        ]
+    },
+    {
+        "dexNumber": "#279",
+        "dexName": "Cubchoo\u30af\u30de\u30b7\u30e5\u30f3",
+        "dexTypes": [
+            "ice"
+        ]
+    },
+    {
+        "dexNumber": "#280",
+        "dexName": "Beartic\u30c4\u30f3\u30d9\u30a2\u30fc",
+        "dexTypes": [
+            "ice"
+        ]
+    },
+    {
+        "dexNumber": "#281",
+        "dexName": "Rufflet\u30ef\u30b7\u30dc\u30f3",
+        "dexTypes": [
+            "normal",
+            "flying"
+        ]
+    },
+    {
+        "dexNumber": "#282",
+        "dexName": "Braviary\u30a6\u30a9\u30fc\u30b0\u30eb",
+        "dexTypes": [
+            "normal",
+            "flying"
+        ]
+    },
+    {
+        "dexNumber": "#283",
+        "dexName": "Vullaby\u30d0\u30eb\u30c1\u30e3\u30a4",
+        "dexTypes": [
+            "dark",
+            "flying"
+        ]
+    },
+    {
+        "dexNumber": "#284",
+        "dexName": "Mandibuzz\u30d0\u30eb\u30b8\u30fc\u30ca",
+        "dexTypes": [
+            "dark",
+            "flying"
+        ]
+    },
+    {
+        "dexNumber": "#285",
+        "dexName": "Skorupi\u30b9\u30b3\u30eb\u30d4",
+        "dexTypes": [
+            "poison",
+            "bug"
+        ]
+    },
+    {
+        "dexNumber": "#286",
+        "dexName": "Drapion\u30c9\u30e9\u30d4\u30aa\u30f3",
+        "dexTypes": [
+            "poison",
+            "dark"
+        ]
+    },
+    {
+        "dexNumber": "#287",
+        "dexName": "Litwick\u30d2\u30c8\u30e2\u30b7",
+        "dexTypes": [
+            "ghost",
+            "fire"
+        ]
+    },
+    {
+        "dexNumber": "#288",
+        "dexName": "Lampent\u30e9\u30f3\u30d7\u30e9\u30fc",
+        "dexTypes": [
+            "ghost",
+            "fire"
+        ]
+    },
+    {
+        "dexNumber": "#289",
+        "dexName": "Chandelure\u30b7\u30e3\u30f3\u30c7\u30e9",
+        "dexTypes": [
+            "ghost",
+            "fire"
+        ]
+    },
+    {
+        "dexNumber": "#290",
+        "dexName": "Inkay\u30de\u30fc\u30a4\u30fc\u30ab",
+        "dexTypes": [
+            "dark",
+            "psychic"
+        ]
+    },
+    {
+        "dexNumber": "#291",
+        "dexName": "Malamar\u30ab\u30e9\u30de\u30cd\u30ed",
+        "dexTypes": [
+            "dark",
+            "psychic"
+        ]
+    },
+    {
+        "dexNumber": "#292",
+        "dexName": "Sneasel\u30cb\u30e5\u30fc\u30e9",
+        "dexTypes": [
+            "dark",
+            "ice"
+        ]
+    },
+    {
+        "dexNumber": "#293",
+        "dexName": "Weavile\u30de\u30cb\u30e5\u30fc\u30e9",
+        "dexTypes": [
+            "dark",
+            "ice"
+        ]
+    },
+    {
+        "dexNumber": "#294",
+        "dexName": "Sableye\u30e4\u30df\u30e9\u30df",
+        "dexTypes": [
+            "dark",
+            "ghost"
+        ]
+    },
+    {
+        "dexNumber": "#295",
+        "dexName": "Mawile\u30af\u30c1\u30fc\u30c8",
+        "dexTypes": [
+            "steel",
+            "fairy"
+        ]
+    },
+    {
+        "dexNumber": "#296",
+        "dexName": "Maractus\u30de\u30e9\u30ab\u30c3\u30c1",
+        "dexTypes": [
+            "grass"
+        ]
+    },
+    {
+        "dexNumber": "#297",
+        "dexName": "Sigilyph\u30b7\u30f3\u30dc\u30e9\u30fc",
+        "dexTypes": [
+            "psychic",
+            "flying"
+        ]
+    },
+    {
+        "dexNumber": "#298",
+        "dexName": "Riolu\u30ea\u30aa\u30eb",
+        "dexTypes": [
+            "fighting"
+        ]
+    },
+    {
+        "dexNumber": "#299",
+        "dexName": "Lucario\u30eb\u30ab\u30ea\u30aa",
+        "dexTypes": [
+            "fighting",
+            "steel"
+        ]
+    },
+    {
+        "dexNumber": "#300",
+        "dexName": "Torkoal\u30b3\u30fc\u30bf\u30b9",
+        "dexTypes": [
+            "fire"
+        ]
+    },
+    {
+        "dexNumber": "#301",
+        "dexName": "Mimikyu\u30df\u30df\u30c3\u30ad\u30e5",
+        "dexTypes": [
+            "ghost",
+            "fairy"
+        ]
+    },
+    {
+        "dexNumber": "#302",
+        "dexName": "Cufant\u30be\u30a6\u30c9\u30a6",
+        "dexTypes": [
+            "steel"
+        ]
+    },
+    {
+        "dexNumber": "#303",
+        "dexName": "Copperajah\u30c0\u30a4\u30aa\u30a6\u30c9\u30a6",
+        "dexTypes": [
+            "steel"
+        ]
+    },
+    {
+        "dexNumber": "#304",
+        "dexName": "Qwilfish\u30cf\u30ea\u30fc\u30bb\u30f3",
+        "dexTypes": [
+            "water",
+            "poison"
+        ]
+    },
+    {
+        "dexNumber": "#305",
+        "dexName": "Frillish\u30d7\u30eb\u30ea\u30eb",
+        "dexTypes": [
+            "water",
+            "ghost"
+        ]
+    },
+    {
+        "dexNumber": "#306",
+        "dexName": "Jellicent\u30d6\u30eb\u30f3\u30b2\u30eb",
+        "dexTypes": [
+            "water",
+            "ghost"
+        ]
+    },
+    {
+        "dexNumber": "#307",
+        "dexName": "Mareanie\u30d2\u30c9\u30a4\u30c7",
+        "dexTypes": [
+            "poison",
+            "water"
+        ]
+    },
+    {
+        "dexNumber": "#308",
+        "dexName": "Toxapex\u30c9\u30d2\u30c9\u30a4\u30c7",
+        "dexTypes": [
+            "poison",
+            "water"
+        ]
+    },
+    {
+        "dexNumber": "#309",
+        "dexName": "Cramorant\u30a6\u30c3\u30a6",
+        "dexTypes": [
+            "flying",
+            "water"
+        ]
+    },
+    {
+        "dexNumber": "#310",
+        "dexName": "Toxel\u30a8\u30ec\u30ba\u30f3",
+        "dexTypes": [
+            "electric",
+            "poison"
+        ]
+    },
+    {
+        "dexNumber": "#311",
+        "dexName": "Toxtricity\u30b9\u30c8\u30ea\u30f3\u30c0\u30fc",
+        "dexTypes": [
+            "electric",
+            "poison"
+        ]
+    },
+    {
+        "dexNumber": "#312",
+        "dexName": "Silicobra\u30b9\u30ca\u30d8\u30d3",
+        "dexTypes": [
+            "ground"
+        ]
+    },
+    {
+        "dexNumber": "#313",
+        "dexName": "Sandaconda\u30b5\u30c0\u30a4\u30b8\u30e3",
+        "dexTypes": [
+            "ground"
+        ]
+    },
+    {
+        "dexNumber": "#314",
+        "dexName": "Hippopotas\u30d2\u30dd\u30dd\u30bf\u30b9",
+        "dexTypes": [
+            "ground"
+        ]
+    },
+    {
+        "dexNumber": "#315",
+        "dexName": "Hippowdon\u30ab\u30d0\u30eb\u30c9\u30f3",
+        "dexTypes": [
+            "ground"
+        ]
+    },
+    {
+        "dexNumber": "#316",
+        "dexName": "Durant\u30a2\u30a4\u30a2\u30f3\u30c8",
+        "dexTypes": [
+            "bug",
+            "steel"
+        ]
+    },
+    {
+        "dexNumber": "#317",
+        "dexName": "Heatmor\u30af\u30a4\u30bf\u30e9\u30f3",
+        "dexTypes": [
+            "fire"
+        ]
+    },
+    {
+        "dexNumber": "#318",
+        "dexName": "Helioptile\u30a8\u30ea\u30ad\u30c6\u30eb",
+        "dexTypes": [
+            "electric",
+            "normal"
+        ]
+    },
+    {
+        "dexNumber": "#319",
+        "dexName": "Heliolisk\u30a8\u30ec\u30b6\u30fc\u30c9",
+        "dexTypes": [
+            "electric",
+            "normal"
+        ]
+    },
+    {
+        "dexNumber": "#320",
+        "dexName": "Hawlucha\u30eb\u30c1\u30e3\u30d6\u30eb",
+        "dexTypes": [
+            "fighting",
+            "flying"
+        ]
+    },
+    {
+        "dexNumber": "#321",
+        "dexName": "Trapinch\u30ca\u30c3\u30af\u30e9\u30fc",
+        "dexTypes": [
+            "ground"
+        ]
+    },
+    {
+        "dexNumber": "#322",
+        "dexName": "Vibrava\u30d3\u30d6\u30e9\u30fc\u30d0",
+        "dexTypes": [
+            "ground",
+            "dragon"
+        ]
+    },
+    {
+        "dexNumber": "#323",
+        "dexName": "Flygon\u30d5\u30e9\u30a4\u30b4\u30f3",
+        "dexTypes": [
+            "ground",
+            "dragon"
+        ]
+    },
+    {
+        "dexNumber": "#324",
+        "dexName": "Axew\u30ad\u30d0\u30b4",
+        "dexTypes": [
+            "dragon"
+        ]
+    },
+    {
+        "dexNumber": "#325",
+        "dexName": "Fraxure\u30aa\u30ce\u30f3\u30c9",
+        "dexTypes": [
+            "dragon"
+        ]
+    },
+    {
+        "dexNumber": "#326",
+        "dexName": "Haxorus\u30aa\u30ce\u30ce\u30af\u30b9",
+        "dexTypes": [
+            "dragon"
+        ]
+    },
+    {
+        "dexNumber": "#327",
+        "dexName": "Yamask\u30c7\u30b9\u30de\u30b9",
+        "dexTypes": [
+            "ground",
+            "ghost"
+        ]
+    },
+    {
+        "dexNumber": "#328",
+        "dexName": "Runerigus\u30c7\u30b9\u30d0\u30fc\u30f3",
+        "dexTypes": [
+            "ground",
+            "ghost"
+        ]
+    },
+    {
+        "dexNumber": "#329",
+        "dexName": "Cofagrigus\u30c7\u30b9\u30ab\u30fc\u30f3",
+        "dexTypes": [
+            "ghost"
+        ]
+    },
+    {
+        "dexNumber": "#330",
+        "dexName": "Honedge\u30d2\u30c8\u30c4\u30ad",
+        "dexTypes": [
+            "steel",
+            "ghost"
+        ]
+    },
+    {
+        "dexNumber": "#331",
+        "dexName": "Doublade\u30cb\u30c0\u30f3\u30ae\u30eb",
+        "dexTypes": [
+            "steel",
+            "ghost"
+        ]
+    },
+    {
+        "dexNumber": "#332",
+        "dexName": "Aegislash\u30ae\u30eb\u30ac\u30eb\u30c9",
+        "dexTypes": [
+            "steel",
+            "ghost"
+        ]
+    },
+    {
+        "dexNumber": "#333",
+        "dexName": "Ponyta\u30dd\u30cb\u30fc\u30bf",
+        "dexTypes": [
+            "psychic"
+        ]
+    },
+    {
+        "dexNumber": "#334",
+        "dexName": "Rapidash\u30ae\u30e3\u30ed\u30c3\u30d7",
+        "dexTypes": [
+            "psychic",
+            "fairy"
+        ]
+    },
+    {
+        "dexNumber": "#335",
+        "dexName": "Sinistea\u30e4\u30d0\u30c1\u30e3",
+        "dexTypes": [
+            "ghost"
+        ]
+    },
+    {
+        "dexNumber": "#336",
+        "dexName": "Polteageist\u30dd\u30c3\u30c8\u30c7\u30b9",
+        "dexTypes": [
+            "ghost"
+        ]
+    },
+    {
+        "dexNumber": "#337",
+        "dexName": "Indeedee\u30a4\u30a8\u30c3\u30b5\u30f3",
+        "dexTypes": [
+            "psychic",
+            "normal"
+        ]
+    },
+    {
+        "dexNumber": "#338",
+        "dexName": "Phantump\u30dc\u30af\u30ec\u30fc",
+        "dexTypes": [
+            "ghost",
+            "grass"
+        ]
+    },
+    {
+        "dexNumber": "#339",
+        "dexName": "Trevenant\u30aa\u30fc\u30ed\u30c3\u30c8",
+        "dexTypes": [
+            "ghost",
+            "grass"
+        ]
+    },
+    {
+        "dexNumber": "#340",
+        "dexName": "Morelull\u30cd\u30de\u30b7\u30e5",
+        "dexTypes": [
+            "grass",
+            "fairy"
+        ]
+    },
+    {
+        "dexNumber": "#341",
+        "dexName": "Shiinotic\u30de\u30b7\u30a7\u30fc\u30c9",
+        "dexTypes": [
+            "grass",
+            "fairy"
+        ]
+    },
+    {
+        "dexNumber": "#342",
+        "dexName": "Oranguru\u30e4\u30ec\u30e6\u30fc\u30bf\u30f3",
+        "dexTypes": [
+            "normal",
+            "psychic"
+        ]
+    },
+    {
+        "dexNumber": "#343",
+        "dexName": "Passimian\u30ca\u30b2\u30c4\u30b1\u30b5\u30eb",
+        "dexTypes": [
+            "fighting"
+        ]
+    },
+    {
+        "dexNumber": "#344",
+        "dexName": "Morpeko\u30e2\u30eb\u30da\u30b3",
+        "dexTypes": [
+            "electric",
+            "dark"
+        ]
+    },
+    {
+        "dexNumber": "#345",
+        "dexName": "Falinks\u30bf\u30a4\u30ec\u30fc\u30c4",
+        "dexTypes": [
+            "fighting"
+        ]
+    },
+    {
+        "dexNumber": "#346",
+        "dexName": "Drampa\u30b8\u30b8\u30fc\u30ed\u30f3",
+        "dexTypes": [
+            "normal",
+            "dragon"
+        ]
+    },
+    {
+        "dexNumber": "#347",
+        "dexName": "Turtonator\u30d0\u30af\u30ac\u30e1\u30b9",
+        "dexTypes": [
+            "fire",
+            "dragon"
+        ]
+    },
+    {
+        "dexNumber": "#348",
+        "dexName": "Togedemaru\u30c8\u30b2\u30c7\u30de\u30eb",
+        "dexTypes": [
+            "electric",
+            "steel"
+        ]
+    },
+    {
+        "dexNumber": "#349",
+        "dexName": "Snom\u30e6\u30ad\u30cf\u30df",
+        "dexTypes": [
+            "ice",
+            "bug"
+        ]
+    },
+    {
+        "dexNumber": "#350",
+        "dexName": "Frosmoth\u30e2\u30b9\u30ce\u30a6",
+        "dexTypes": [
+            "ice",
+            "bug"
+        ]
+    },
+    {
+        "dexNumber": "#351",
+        "dexName": "Clobbopus\u30bf\u30bf\u30c3\u30b3",
+        "dexTypes": [
+            "fighting"
+        ]
+    },
+    {
+        "dexNumber": "#352",
+        "dexName": "Grapploct\u30aa\u30c8\u30b9\u30d1\u30b9",
+        "dexTypes": [
+            "fighting"
+        ]
+    },
+    {
+        "dexNumber": "#353",
+        "dexName": "Pincurchin\u30d0\u30c1\u30f3\u30a6\u30cb",
+        "dexTypes": [
+            "electric"
+        ]
+    },
+    {
+        "dexNumber": "#354",
+        "dexName": "Mantyke\u30bf\u30de\u30f3\u30bf",
+        "dexTypes": [
+            "water",
+            "flying"
+        ]
+    },
+    {
+        "dexNumber": "#355",
+        "dexName": "Mantine\u30de\u30f3\u30bf\u30a4\u30f3",
+        "dexTypes": [
+            "water",
+            "flying"
+        ]
+    },
+    {
+        "dexNumber": "#356",
+        "dexName": "Wailmer\u30db\u30a8\u30eb\u30b3",
+        "dexTypes": [
+            "water"
+        ]
+    },
+    {
+        "dexNumber": "#357",
+        "dexName": "Wailord\u30db\u30a8\u30eb\u30aa\u30fc",
+        "dexTypes": [
+            "water"
+        ]
+    },
+    {
+        "dexNumber": "#358",
+        "dexName": "Bergmite\u30ab\u30c1\u30b3\u30fc\u30eb",
+        "dexTypes": [
+            "ice"
+        ]
+    },
+    {
+        "dexNumber": "#359",
+        "dexName": "Avalugg\u30af\u30ec\u30d9\u30fc\u30b9",
+        "dexTypes": [
+            "ice"
+        ]
+    },
+    {
+        "dexNumber": "#360",
+        "dexName": "Dhelmise\u30c0\u30c0\u30ea\u30f3",
+        "dexTypes": [
+            "ghost",
+            "grass"
+        ]
+    },
+    {
+        "dexNumber": "#361",
+        "dexName": "Lapras\u30e9\u30d7\u30e9\u30b9",
+        "dexTypes": [
+            "water",
+            "ice"
+        ]
+    },
+    {
+        "dexNumber": "#362",
+        "dexName": "Lunatone\u30eb\u30ca\u30c8\u30fc\u30f3",
+        "dexTypes": [
+            "rock",
+            "psychic"
+        ]
+    },
+    {
+        "dexNumber": "#363",
+        "dexName": "Solrock\u30bd\u30eb\u30ed\u30c3\u30af",
+        "dexTypes": [
+            "rock",
+            "psychic"
+        ]
+    },
+    {
+        "dexNumber": "#364",
+        "dexName": "Mime Jr.\u30de\u30cd\u30cd",
+        "dexTypes": [
+            "psychic",
+            "fairy"
+        ]
+    },
+    {
+        "dexNumber": "#365",
+        "dexName": "Mr. Mime\u30d0\u30ea\u30e4\u30fc\u30c9",
+        "dexTypes": [
+            "ice",
+            "psychic"
+        ]
+    },
+    {
+        "dexNumber": "#366",
+        "dexName": "Mr. Rime\u30d0\u30ea\u30b3\u30aa\u30eb",
+        "dexTypes": [
+            "ice",
+            "psychic"
+        ]
+    },
+    {
+        "dexNumber": "#367",
+        "dexName": "Darumaka\u30c0\u30eb\u30de\u30c3\u30ab",
+        "dexTypes": [
+            "ice"
+        ]
+    },
+    {
+        "dexNumber": "#368",
+        "dexName": "Darmanitan\u30d2\u30d2\u30c0\u30eb\u30de",
+        "dexTypes": [
+            "ice"
+        ]
+    },
+    {
+        "dexNumber": "#369",
+        "dexName": "Stonjourner\u30a4\u30b7\u30d8\u30f3\u30b8\u30f3",
+        "dexTypes": [
+            "rock"
+        ]
+    },
+    {
+        "dexNumber": "#370",
+        "dexName": "Eiscue\u30b3\u30aa\u30ea\u30c3\u30dd",
+        "dexTypes": [
+            "ice"
+        ]
+    },
+    {
+        "dexNumber": "#371",
+        "dexName": "Duraludon\u30b8\u30e5\u30e9\u30eb\u30c9\u30f3",
+        "dexTypes": [
+            "steel",
+            "dragon"
+        ]
+    },
+    {
+        "dexNumber": "#372",
+        "dexName": "Rotom\u30ed\u30c8\u30e0",
+        "dexTypes": [
+            "electric",
+            "ghost"
+        ]
+    },
+    {
+        "dexNumber": "#373",
+        "dexName": "Ditto\u30e1\u30bf\u30e2\u30f3",
+        "dexTypes": [
+            "normal"
+        ]
+    },
+    {
+        "dexNumber": "#374",
+        "dexName": "Dracozolt\u30d1\u30c3\u30c1\u30e9\u30b4\u30f3",
+        "dexTypes": [
+            "electric",
+            "dragon"
+        ]
+    },
+    {
+        "dexNumber": "#375",
+        "dexName": "Arctozolt\u30d1\u30c3\u30c1\u30eb\u30c9\u30f3",
+        "dexTypes": [
+            "electric",
+            "ice"
+        ]
+    },
+    {
+        "dexNumber": "#376",
+        "dexName": "Dracovish\u30a6\u30aa\u30ce\u30e9\u30b4\u30f3",
+        "dexTypes": [
+            "water",
+            "dragon"
+        ]
+    },
+    {
+        "dexNumber": "#377",
+        "dexName": "Arctovish\u30a6\u30aa\u30c1\u30eb\u30c9\u30f3",
+        "dexTypes": [
+            "water",
+            "ice"
+        ]
+    },
+    {
+        "dexNumber": "#378",
+        "dexName": "Charmander\u30d2\u30c8\u30ab\u30b2",
+        "dexTypes": [
+            "fire"
+        ]
+    },
+    {
+        "dexNumber": "#379",
+        "dexName": "Charmeleon\u30ea\u30b6\u30fc\u30c9",
+        "dexTypes": [
+            "fire"
+        ]
+    },
+    {
+        "dexNumber": "#380",
+        "dexName": "Charizard\u30ea\u30b6\u30fc\u30c9\u30f3",
+        "dexTypes": [
+            "fire",
+            "flying"
+        ]
+    },
+    {
+        "dexNumber": "#381",
+        "dexName": "Type: Null\u30bf\u30a4\u30d7\uff1a\u30cc\u30eb",
+        "dexTypes": [
+            "normal"
+        ]
+    },
+    {
+        "dexNumber": "#382",
+        "dexName": "Silvally\u30b7\u30eb\u30f4\u30a1\u30c7\u30a3",
+        "dexTypes": [
+            "normal"
+        ]
+    },
+    {
+        "dexNumber": "#383",
+        "dexName": "Larvitar\u30e8\u30fc\u30ae\u30e9\u30b9",
+        "dexTypes": [
+            "rock",
+            "ground"
+        ]
+    },
+    {
+        "dexNumber": "#384",
+        "dexName": "Pupitar\u30b5\u30ca\u30ae\u30e9\u30b9",
+        "dexTypes": [
+            "rock",
+            "ground"
+        ]
+    },
+    {
+        "dexNumber": "#385",
+        "dexName": "Tyranitar\u30d0\u30f3\u30ae\u30e9\u30b9",
+        "dexTypes": [
+            "rock",
+            "dark"
+        ]
+    },
+    {
+        "dexNumber": "#386",
+        "dexName": "Deino\u30e2\u30ce\u30ba",
+        "dexTypes": [
+            "dark",
+            "dragon"
+        ]
+    },
+    {
+        "dexNumber": "#387",
+        "dexName": "Zweilous\u30b8\u30d8\u30c3\u30c9",
+        "dexTypes": [
+            "dark",
+            "dragon"
+        ]
+    },
+    {
+        "dexNumber": "#388",
+        "dexName": "Hydreigon\u30b5\u30b6\u30f3\u30c9\u30e9",
+        "dexTypes": [
+            "dark",
+            "dragon"
+        ]
+    },
+    {
+        "dexNumber": "#389",
+        "dexName": "Goomy\u30cc\u30e1\u30e9",
+        "dexTypes": [
+            "dragon"
+        ]
+    },
+    {
+        "dexNumber": "#390",
+        "dexName": "Sliggoo\u30cc\u30e1\u30a4\u30eb",
+        "dexTypes": [
+            "dragon"
+        ]
+    },
+    {
+        "dexNumber": "#391",
+        "dexName": "Goodra\u30cc\u30e1\u30eb\u30b4\u30f3",
+        "dexTypes": [
+            "dragon"
+        ]
+    },
+    {
+        "dexNumber": "#392",
+        "dexName": "Jangmo-o\u30b8\u30e3\u30e9\u30b3",
+        "dexTypes": [
+            "dragon"
+        ]
+    },
+    {
+        "dexNumber": "#393",
+        "dexName": "Hakamo-o\u30b8\u30e3\u30e9\u30f3\u30b4",
+        "dexTypes": [
+            "dragon",
+            "fighting"
+        ]
+    },
+    {
+        "dexNumber": "#394",
+        "dexName": "Kommo-o\u30b8\u30e3\u30e9\u30e9\u30f3\u30ac",
+        "dexTypes": [
+            "dragon",
+            "fighting"
+        ]
+    },
+    {
+        "dexNumber": "#395",
+        "dexName": "Dreepy\u30c9\u30e9\u30e1\u30b7\u30e4",
+        "dexTypes": [
+            "dragon",
+            "ghost"
+        ]
+    },
+    {
+        "dexNumber": "#396",
+        "dexName": "Drakloak\u30c9\u30ed\u30f3\u30c1",
+        "dexTypes": [
+            "dragon",
+            "ghost"
+        ]
+    },
+    {
+        "dexNumber": "#397",
+        "dexName": "Dragapult\u30c9\u30e9\u30d1\u30eb\u30c8",
+        "dexTypes": [
+            "dragon",
+            "ghost"
+        ]
+    },
+    {
+        "dexNumber": "#398",
+        "dexName": "Zacian\u30b6\u30b7\u30a2\u30f3",
+        "dexTypes": [
+            "fairy"
+        ]
+    },
+    {
+        "dexNumber": "#399",
+        "dexName": "Zamazenta\u30b6\u30de\u30bc\u30f3\u30bf",
+        "dexTypes": [
+            "fighting"
+        ]
+    },
+    {
+        "dexNumber": "#400",
+        "dexName": "Eternatus\u30e0\u30b2\u30f3\u30c0\u30a4\u30ca",
+        "dexTypes": [
+            "poison",
+            "dragon"
+        ]
+    }
+]
